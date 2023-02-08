@@ -22,7 +22,8 @@ class HomeAppBar extends StatelessWidget {
                       fontSize: 23,
                       fontWeight: FontWeight.bold,
                       color: Color(0xFF4C53A5),
-                    )))
+                    ))),
+            Spacer(),
           ],
         ));
   }
