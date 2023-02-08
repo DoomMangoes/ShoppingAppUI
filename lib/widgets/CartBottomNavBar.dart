@@ -45,7 +45,7 @@ class CartBottomNavBar extends StatelessWidget {
               child: Text(
                 "Check Out",
                 style: TextStyle(
-                  fontSize: 16,
+                  fontSize: 18,
                   fontWeight: FontWeight.bold,
                   color: Colors.white,
                 ),
